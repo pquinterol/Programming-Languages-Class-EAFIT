@@ -1,0 +1,6 @@
+Recuerde que si desea elevar,dividir, multiplicar o modulo por un numero negativo debe encerrarlo en parentesis.
+2.38950*2345+23+4^4.56-9
+2+45-3*(56.347%2)-7
+2^(-18.5)
+2^(4-2)
+123.4567%2.23
